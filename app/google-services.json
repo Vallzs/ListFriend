@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853347905872",
+    "project_id": "listfriend-ee3bc",
+    "storage_bucket": "listfriend-ee3bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853347905872:android:4a32c6f28f0e7cbc863c55",
+        "android_client_info": {
+          "package_name": "com.noval.listfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853347905872-491j8aerrv67gk4hn8vs1v8j0tmpg7ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ64snwN67JDjpG78GbqIlmtoZHvU2gzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853347905872-491j8aerrv67gk4hn8vs1v8j0tmpg7ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

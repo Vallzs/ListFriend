@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Datakawan</string>
+    <string name="iv_andriyot">iv_andriyot</string>
+    <string name="btn_login">Login</string>
+    <string name="ed_nama">Masukkan Nama</string>
+    <string name="ed_alamat">Masukkan Alamat</string>
+    <string name="ed_no_hp">Masukkan No Hp</string>
+    <string name="btn_logout">Keluar</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_sh_data">Lihat Data</string>
+    <string name="btn_update">Update</string>
+</resources>
